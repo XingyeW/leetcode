@@ -18,5 +18,12 @@ Example 3:
 Input: grid = [[1,0,0],[1,1,0],[1,1,1]]
 Output: 0
 
+Constraints:
 
-https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid
+n == grid.length
+n == grid[i].length
+1 <= n <= 200
+grid[i][j] is 0 or 1
+
+Source: LeetCode
+Link: https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid
